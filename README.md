@@ -1,4 +1,4 @@
-# Whisper Wall - Secret Message Board
+# Secret Santa - Secret Message Board
 
 A fun, interactive website where users can leave anonymous messages that vanish after being read! 
 
